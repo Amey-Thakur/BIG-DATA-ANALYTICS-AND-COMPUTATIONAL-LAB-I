@@ -1,11 +1,12 @@
 # BIG DATA ANALYTICS AND COMPUTATIONAL LAB - I
  BDA & CL-I [SEMESTER VII]
 
-## Assignments
+## Experiments
   
   >Computational Lab - I
 
   - BDA [Experiment - 1](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/AMEY_B-50_BDA_EXPERIMENT-1.pdf)
+  - BDA [Experiment - 2](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/AMEY_B-50_BDA_EXPERIMENT-2.pdf)
 
 ## Classwork
 
