@@ -11,3 +11,7 @@
 ## Classwork
 
   - Case Study | [Hadoop in Banking](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Classwork/Case%20Study%20-%20Hadoop%20in%20Banking.pdf)
+
+## Quizzes
+
+  - [NOSQL](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Quizzes/MCQ%20Test-NOSQL-18-08-2021.pdf) | 18-08=2021
