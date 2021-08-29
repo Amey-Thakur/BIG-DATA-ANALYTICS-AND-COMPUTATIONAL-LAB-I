@@ -7,6 +7,8 @@
 
   - BDA [Experiment - 1](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/AMEY_B-50_BDA_EXPERIMENT-1.pdf)
   - BDA [Experiment - 2](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/AMEY_B-50_BDA_EXPERIMENT-2.pdf)
+  - BDA [Experiment - 3](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/AMEY_B-50_BDA_EXPERIMENT-3.pdf)
+  - BDA [Experiment - 4](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/AMEY_B-50_BDA_EXPERIMENT-4.pdf)
 
 ## Classwork
 
