@@ -16,6 +16,11 @@
   - BDA [Experiment - 9](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%209/AMEY_B-50_BDA_EXPERIMENT-9.pdf)
   - BDA [Experiment - 10]
 
+## Assignments
+
+  - BDA Assignment | [Digital](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Assignments/AMEY_B-50_BDA_Assignment_%5BDIGITAL%5D.pdf) | [Handwritten](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Assignments/AMEY_B-50_BDA_Assignment_%5BHANDWRITTEN%5D.pdf)
+  - BDA [Assignment - 1](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Assignments/AMEY_B-50_BDA_ASSIGNMENT-1.pdf)
+
 ## Classwork
 
   - Case Study | [Hadoop in Banking](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Classwork/Case%20Study%20-%20Hadoop%20in%20Banking.pdf)
