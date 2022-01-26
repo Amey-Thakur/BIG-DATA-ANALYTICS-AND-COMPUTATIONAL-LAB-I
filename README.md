@@ -14,7 +14,7 @@
   - BDA [Experiment - 7](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%207/AMEY_B-50_BDA_EXPERIMENT-7.pdf)
   - BDA [Experiment - 8](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%208/AMEY_B-50_BDA_EXPERIMENT-8.pdf)
   - BDA [Experiment - 9](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%209/AMEY_B-50_BDA_EXPERIMENT-9.pdf)
-  - BDA [Experiment - 10](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)
+  - BDA [Experiment - 10](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) - _Mini Project_
 
 ## Assignments
 
