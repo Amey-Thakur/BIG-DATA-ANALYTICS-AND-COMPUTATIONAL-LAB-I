@@ -9,12 +9,8 @@
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
   [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-study-of-hadoop-system)
-  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cypher%20%7C%20MongoDB-orange.svg)](./
-
-)
-  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](./
-
-)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cypher%20%7C%20MongoDB-orange.svg)](#experiment-1-study-of-hadoop-system)
+  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](#experiment-1-study-of-hadoop-system)
 
   **A comprehensive collection of laboratory experiments for Big Data Analytics focusing on Hadoop ecosystem, MapReduce programming, NoSQL databases, and data mining algorithms.**
 
