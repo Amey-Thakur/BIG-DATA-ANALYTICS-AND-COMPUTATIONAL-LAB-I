@@ -136,7 +136,6 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
   [![Language](https://img.shields.io/badge/Language-Java%20%7C%20Python%20%7C%20NoSQL-orange.svg)](Computational%20Lab%20-%20I/)
 
 </div>
-  **Experiment Collection:**
 
 > [!TIP]
 > **Prerequisites**: Experiments build progressively - complete Hadoop installation and configuration (Exp 1-3) before attempting MapReduce programming (Exp 5, 7). Familiarity with Java is essential for Hadoop, while Python proficiency is required for PySpark experiments (Exp 7, 9). Keep backups of your Hadoop configuration files before making changes.
