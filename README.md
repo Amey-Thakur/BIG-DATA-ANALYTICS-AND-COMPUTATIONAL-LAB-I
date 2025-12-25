@@ -359,12 +359,11 @@ Previous year university question papers:
      ========================================================================================= -->
 ## Submission Completion Report
 
-Course completion documentation with exit survey:
+Course completion documentation:
 
 | # | Document | Description |
 |:-:|:---|:---|
 | 1 | [Submission Report](Submission%20Report/BDA%20SUBMISSION%20SHEET.pdf) | Final coursework submission report |
-| 2 | [Exit Survey (Lab)](Submission%20Report/Exit%20Survey%20(Lab).pdf) | Course outcome survey for BDA Lab |
 
 ---
 
