@@ -225,7 +225,7 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 <!-- =========================================================================================
                                      MINI PROJECT SECTION
      ========================================================================================= -->
-## Mini Project
+## Big Data Analytics Mini Project
 
 <div align="center">
 
@@ -233,15 +233,18 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
   
   **Data-Driven Stock Market Analysis using Unsupervised Machine Learning**
 
-  [![Project](https://img.shields.io/badge/Project-K--Means%20Clustering-purple.svg)](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)
-  [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Jupyter-blue.svg)](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)
+  ![Project](https://img.shields.io/badge/Project-Stock%20Trading%20Strategy-purple.svg)
+  ![Platform](https://img.shields.io/badge/Platform-Python-blue.svg)
+  ![Technology](https://img.shields.io/badge/Technology-K--Means%20Clustering-orange.svg)
+  ![Stack](https://img.shields.io/badge/Stack-Pandas%20%7C%20NumPy%20%7C%20Scikit--learn-yellow.svg)
+  ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 </div>
 
 <div align="center">
 
   #### 👥 Authors
+  
   | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) | <img src="https://github.com/rizvihasan.png" width="150" alt="Hasan Rizvi"><br>[**Hasan Rizvi**](https://github.com/rizvihasan) |
   | :---: | :---: | :---: |
 
@@ -251,18 +254,18 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 > ### 🤝🏻 Special Acknowledgement
 > *Special thanks to [Mega Satish](https://github.com/msatmod) and [Hasan Rizvi](https://github.com/rizvihasan) for their collaborative efforts, meaningful contributions, and teamwork that made this project successful.*
 
-### Project Overview
+#### Project Overview
 
 This mini project explores the application of **K-Means Clustering**, an unsupervised machine learning algorithm, to optimize stock trading strategies. By analyzing historical stock data, the system groups stocks based on performance metrics (volatility, returns), enabling investors to identify patterns and make data-driven decisions. The project leverages Python's data analysis libraries (Pandas, NumPy, Scikit-learn) to perform clustering and visualize market trends.
 
-### Resources
+#### Resources
 
-| # | Resource | Description | Link |
-|:-:|:---|:---|:-:|
-| 1 | **Project Repository** | Complete source code and documentation | [View](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) |
-| 2 | **Project Report** | Detailed documentation and analysis | [View](BDA%20Mini-Project/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
-| 3 | **Presentation** | Visual overview of the methodology | [View](BDA%20Mini-Project/BDA_MINI-PROJECT_PPT_BE-COMPS_B-50%2C51%2C58.pdf) |
-| 4 | **Source Code** | Jupyter Notebook implementation | [View](BDA%20Mini-Project/OPTIMIZING%20STOCK%20TRADING%20STRATEGY%20WITH%20K-MEANS%20CLUSTERING.ipynb) |
+| # | Resource | Description | Date | Marks | Link |
+|:-:|:---|:---|:---:|:-:|:-:|
+| 1 | Project Repository | Complete source code and documentation | - | - | [View](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) |
+| 2 | Project Report | Detailed documentation and analysis | October 05, 2021 | - | [View](BDA%20Mini-Project/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
+| 3 | Presentation | Visual overview of the methodology | October 05, 2021 | - | [View](BDA%20Mini-Project/BDA_MINI-PROJECT_PPT_BE-COMPS_B-50%2C51%2C58.pdf) |
+| 4 | Source Code | Jupyter Notebook implementation | - | - | [View](BDA%20Mini-Project/OPTIMIZING%20STOCK%20TRADING%20STRATEGY%20WITH%20K-MEANS%20CLUSTERING.ipynb) |
 
 ---
 
