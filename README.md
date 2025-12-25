@@ -76,6 +76,16 @@ This collection includes **comprehensive reference materials** covering all majo
 
 ---
 
+### Personal Preparation
+
+Study materials and planning resources for effective exam preparation:
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Subject Choice](Terna%20Mail%20-%20BE%20DLOC%20Elective%20Choice%20SH%202021.pdf) | Department Level Optional Subject Choice |
+
+---
+
 ### Assignments
 
 Academic assignments for comprehensive learning and practice:
@@ -98,16 +108,6 @@ BDA-specific quizzes conducted during the course:
 |:-:|:---:|:---|:---:|:-:|
 | 1 | [Quiz 1](Quizzes/MCQ%20Test-NOSQL-18-08-2021.pdf) | NoSQL Databases | August 18, 2021 | 6/6 |
 | 2 | [Quiz 2](Quizzes/MCQ-LAB%20Test-MAPREDUCE(B)-23-08-2021.pdf) | MapReduce Programming | August 23, 2021 | 10/10 |
-
----
-
-### Personal Preparation
-
-Study materials and planning resources for effective exam preparation:
-
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [Subject Choice](Terna%20Mail%20-%20BE%20DLOC%20Elective%20Choice%20SH%202021.pdf) | Department Level Optional Subject Choice |
 
 ---
 
