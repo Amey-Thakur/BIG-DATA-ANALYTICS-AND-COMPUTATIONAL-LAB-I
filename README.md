@@ -121,7 +121,7 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 
 | # | Experiment | Date | Report |
 |:-:|:---|:---:|:-:|
-| 1 | Installation and Setup of Hadoop Ecosystem | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-1/AMEY_B-50_BDA_EXPERIMENT-1.pdf) |
+| 1 | Study of Hadoop System | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-1/AMEY_B-50_BDA_EXPERIMENT-1.pdf) |
 | 2 | Implementation of File Management using HDFS | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-2/AMEY_B-50_BDA_EXPERIMENT-2.pdf) |
 | 3 | Implementation of MapReduce for Word Count | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-3/AMEY_B-50_BDA_EXPERIMENT-3.pdf) |
 | 4 | Implementation of NoSQL Database Operations (MongoDB) | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-4/AMEY_B-50_BDA_EXPERIMENT-4.pdf) |
