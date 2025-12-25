@@ -23,10 +23,10 @@
 ---
 
 > [!TIP]
-> **Multi-Technology Laboratory**: This laboratory utilizes diverse Big Data technologies. **Hadoop** and **HDFS** for distributed storage, **MapReduce** for parallel processing, **Neo4j** for graph databases, **MongoDB** for document stores, and **PySpark** for large-scale data analytics. Ensure you have the corresponding environments set up.
+> **Cluster Configuration**: For optimal learning, start with Hadoop Single-Node cluster setup (Experiments 1-2) before attempting Multi-Node configuration. Use Ubuntu/Linux virtual machines for better Hadoop compatibility. Keep separate development directories for MapReduce programs and dataset files to maintain clean project organization.
 
 > [!WARNING]
-> **Environment Setup**: Hadoop experiments require proper configuration of JAVA_HOME and HADOOP_HOME environment variables. PySpark programs need Python 3.x with Spark installed. Neo4j requires the Neo4j Desktop or server installation.
+> **Java Version Compatibility**: Hadoop 2.x requires Java 8 (NOT Java 11+). Using incompatible Java versions will cause ClassNotFoundException errors. Always verify `java -version` and `JAVA_HOME` settings before running MapReduce jobs. PySpark requires Python 3.6+ but may have compatibility issues with Python 3.10+ for certain libraries.
 
 ---
 
