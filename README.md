@@ -388,7 +388,7 @@ Course completion documentation:
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use these resources as reference materials for understanding Big Data architectures, algorithms, and preparing for examinations. All content is organized for self-paced learning.
+Use these resources as reference materials for understanding Big Data architectures, data analytics algorithms, and preparing for examinations. All content is organized for self-paced learning.
 
 **For Educators**  
 These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
