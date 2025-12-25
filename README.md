@@ -96,7 +96,7 @@ BDA-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Marks |
 |:-:|:---:|:---|:-:|
-| 1 | [Quiz 1](Quizzes/MCQ%20Test-NOSQL-18-08-2021.pdf) | NoSQL Databases | 10 |
+| 1 | [Quiz 1](Quizzes/MCQ%20Test-NOSQL-18-08-2021.pdf) | NoSQL Databases | 6 |
 | 2 | [Quiz 2](Quizzes/MCQ-LAB%20Test-MAPREDUCE(B)-23-08-2021.pdf) | MapReduce Programming | 10 |
 
 ---
