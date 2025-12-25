@@ -127,7 +127,7 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 | 4 | Neo4j Graph Database Operations | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-4/AMEY_B-50_BDA_EXPERIMENT-4.pdf) |
 | 5 | Matrix Multiplication using MapReduce | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-5/AMEY_B-50_BDA_EXPERIMENT-5.pdf) |
 | 6 | Data Analysis using Bigsheets | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-6/AMEY_B-50_BDA_EXPERIMENT-6.pdf) |
-| 7 | Implementation of K-Means Clustering Algorithm | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-7/AMEY_B-50_BDA_EXPERIMENT-7.pdf) |
+| 7 | Word Count using PySpark MapReduce | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-7/AMEY_B-50_BDA_EXPERIMENT-7.pdf) |
 | 8 | Implementation of PageRank Algorithm | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-8/AMEY_B-50_BDA_EXPERIMENT-8.pdf) |
 | 9 | Implementation of Recommendation System | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-9/AMEY_B-50_BDA_EXPERIMENT-9.pdf) |
 | 10 | Mini Project: Optimizing Stock Trading Strategy | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
