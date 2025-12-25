@@ -254,7 +254,7 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 > ### 🤝🏻 Special Acknowledgement
 > *Special thanks to [Mega Satish](https://github.com/msatmod) and [Hasan Rizvi](https://github.com/rizvihasan) for their collaborative efforts, meaningful contributions, and teamwork that made this project successful.*
 
-#### Project Overview
+### Project Overview
 
 This mini project explores the application of **K-Means Clustering**, an unsupervised machine learning algorithm, to optimize stock trading strategies. By analyzing historical stock data, the system groups stocks based on performance metrics (volatility, returns), enabling investors to identify patterns and make data-driven decisions. The project leverages Python's data analysis libraries (Pandas, NumPy, Scikit-learn) to perform clustering and visualize market trends.
 
