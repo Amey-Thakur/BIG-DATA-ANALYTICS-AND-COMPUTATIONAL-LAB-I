@@ -434,6 +434,7 @@ Special thanks to the faculty members of the Department of Computer Engineering 
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
+---
 <!-- =========================================================================================
                                      FOOTER SECTION
      ========================================================================================= -->
