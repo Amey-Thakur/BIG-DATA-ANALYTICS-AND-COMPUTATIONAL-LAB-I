@@ -439,12 +439,6 @@ This repository represents a comprehensive collection of study materials, refere
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
-### Acknowledgments
-
-Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction.
-
-Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
-
 ---
 
 <!-- =========================================================================================
