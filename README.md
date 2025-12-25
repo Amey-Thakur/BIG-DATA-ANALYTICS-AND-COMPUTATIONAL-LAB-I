@@ -33,7 +33,7 @@ Big Data Analytics (CSDLO7032) and Computational Lab - I (CSL704) are core subje
 
 ### Course Topics
 
-The curriculum encompasses several key domains:
+The curriculum encompasses several key domains in Big Data Analytics (BDA):
 
 - **Big Data Architectures**: Hadoop Ecosystem (HDFS, YARN), MapReduce programming model.
 - **NoSQL Databases**: Key-value stores, Column-family stores, Document databases (MongoDB), Graph databases.
@@ -44,16 +44,16 @@ The curriculum encompasses several key domains:
 
 This repository represents a curated collection of study materials, reference books, lab experiments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
 
-As a computer engineer, understanding Big Data technologies is crucial for developing scalable and data-driven solutions. This repository serves as my intellectual reference point.
+As a computer engineer, understanding Big Data technologies is crucial for developing scalable and data-driven solutions. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
 **Why this repository exists:**
 
-- **Knowledge Preservation**: To maintain organized access to comprehensive study materials.
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of Big Data concepts.
 - **Academic Documentation**: To authentically document my learning journey through BDA.
-- **Community Contribution**: To share these resources with students and learners.
+- **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
-All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022).
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
 
 ---
 
