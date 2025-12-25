@@ -1,85 +1,335 @@
-# BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
+<div align="center">
 
- 👍🏻 CSDLO7032: BDA & CSL704: CL-I [SEMESTER VII]
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+
+  # Big Data Analytics and Computational Lab I
+
+  ### CSDLO7032 & CSL704 · Semester VII · Computer Engineering
+
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  **A comprehensive academic resource for Big Data Analytics (BDA) and Computational Lab - I, featuring Hadoop ecosystem experiments, NoSQL databases, MapReduce implementations, and data mining techniques.**
+
+  ---
+
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#computational-lab---i) &nbsp;·&nbsp; [Mini Project](#mini-project) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+
+</div>
 
 ---
- 
- - [X] **[Syllabus](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- 
- - [X] **BDA - [Reference Books](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/tree/main/Reference%20Books)**
+
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
+## Overview
+
+Big Data Analytics (CSDLO7032) and Computational Lab - I (CSL704) are core subjects in the Final Year (Semester VII) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of Big Data technologies, distributed computing frameworks, and data analytics methodologies.
+
+### Course Topics
+
+The curriculum encompasses several key domains:
+
+- **Big Data Architectures**: Hadoop Ecosystem (HDFS, YARN), MapReduce programming model.
+- **NoSQL Databases**: Key-value stores, Column-family stores, Document databases (MongoDB), Graph databases.
+- **Data Mining**: Frequent itemset mining (Apriori, PCY), Clustering (K-Means), Classification.
+- **Streaming & Analytics**: Real-time data processing, Recommendation systems, Collaborative filtering.
+
+### Repository Purpose
+
+This repository represents a curated collection of study materials, reference books, lab experiments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
+
+As a computer engineer, understanding Big Data technologies is crucial for developing scalable and data-driven solutions. This repository serves as my intellectual reference point.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of Big Data concepts.
+- **Academic Documentation**: To authentically document my learning journey through BDA.
+- **Community Contribution**: To share these resources with students and learners.
+
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022).
 
 ---
 
-## Assignments
- 
- - BDA Assignment | [Digital](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Assignments/AMEY_B-50_BDA_Assignment_%5BDIGITAL%5D.pdf) | [Handwritten](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Assignments/AMEY_B-50_BDA_Assignment_%5BHANDWRITTEN%5D.pdf)
- 
- - BDA [Assignment - 1](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Assignments/AMEY_B-50_BDA_ASSIGNMENT-1.pdf)
- 
- - BDA [Assignment - 2](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Assignments/AMEY_B-50_BDA_ASSIGNMENT-2.pdf)
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
+## Repository Contents
 
+### Reference Books
 
-## Experiments
- 
- >Computational Lab - I
+This collection includes **comprehensive reference materials** covering all major topics:
 
- - BDA [Experiment - 1](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%201/AMEY_B-50_BDA_EXPERIMENT-1.pdf)
- 
- - BDA [Experiment - 2](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%202/AMEY_B-50_BDA_EXPERIMENT-2.pdf)
- 
- 
- - BDA [Experiment - 3](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%203/AMEY_B-50_BDA_EXPERIMENT-3.pdf)
- 
- - BDA [Experiment - 4](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%204/AMEY_B-50_BDA_EXPERIMENT-4.pdf)
- 
- - BDA [Experiment - 5](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%205/AMEY_B-50_BDA_EXPERIMENT-5.pdf)
- 
- - BDA [Experiment - 6](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%206/AMEY_B-50_BDA_EXPERIMENT-6.pdf)
- 
- - BDA [Experiment - 7](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%207/AMEY_B-50_BDA_EXPERIMENT-7.pdf)
- 
- - BDA [Experiment - 8](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%208/AMEY_B-50_BDA_EXPERIMENT-8.pdf)
- 
- - BDA [Experiment - 9](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Experiments/BDA%20Experiment%20-%209/AMEY_B-50_BDA_EXPERIMENT-9.pdf)
- 
- - BDA [Experiment - 10](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)          <--- _Mini Project_
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [BDA Modules 1-3](Reference%20Books/bda_1-3.pdf) | Introduction to Big Data, Hadoop, and MapReduce |
+| 2 | [BDA Modules 4-6](Reference%20Books/bda_4-6.pdf) | NoSQL, Mining, and Analytics |
+| 3 | [BDA Modules 7-10](Reference%20Books/bda_7-10.pdf) | Advanced Topics and Case Studies |
+| 4 | [Logic & Chain Rules](Reference%20Books/FOL%2C%20Resolution%2C%20Forward%20and%20backward%20chaining.docx) | Fundamental Logic Concepts |
+| 5 | [BDA Index](Reference%20Books/bda_index.pdf) | Topical Index |
 
+---
 
-## Classwork
- 
- - Case Study | [Hadoop in Banking](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Classwork/Case%20Study%20-%20Hadoop%20in%20Banking.pdf)
+### Assignments
 
+Academic assignments for comprehensive learning and practice:
 
-## Quizzes
- 
- - [NoSQL](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Quizzes/MCQ%20Test-NOSQL-18-08-2021.pdf) | 18-08-2021
- 
- - [MapReduce](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Quizzes/MCQ-LAB%20Test-MAPREDUCE(B)-23-08-2021.pdf) | 23-08-2021
+| # | Assignment | Description | Format |
+|:-:|:---|:---|:-:|
+| 1 | [**Assignment 1**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-1.pdf) | Big Data Characteristics & Hadoop | Digital |
+| 2 | [**Assignment 2**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-2.pdf) | NoSQL & MapReduce | Digital |
+| 3 | [**Assignments Digital**](Assignments/AMEY_B-50_BDA_Assignment_%5BDIGITAL%5D.pdf) | Compiled Digital Assignments | PDF |
+| 4 | [**Assignments Handwritten**](Assignments/AMEY_B-50_BDA_Assignment_%5BHANDWRITTEN%5D.pdf) | Compiled Handwritten Notes | PDF |
 
+---
 
+### Quizzes
+
+BDA-specific quizzes conducted during the course:
+
+| # | Topic | Date | Resource |
+|:-:|:---|:-:|:-:|
+| 1 | **NoSQL Databases** | August 18, 2021 | [View](Quizzes/MCQ%20Test-NOSQL-18-08-2021.pdf) |
+| 2 | **MapReduce Programming** | August 23, 2021 | [View](Quizzes/MCQ-LAB%20Test-MAPREDUCE(B)-23-08-2021.pdf) |
+
+---
+
+<!-- =========================================================================================
+                                     LABORATORY SECTION
+     ========================================================================================= -->
+## Computational Lab - I
+
+The laboratory component (CSL704) focuses on hands-on implementation of Big Data technologies, including Hadoop setup, MapReduce programming, NoSQL database management, and Data Mining algorithms.
+
+<div align="center">
+
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](Computational%20Lab%20-%20I/)
+  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](Computational%20Lab%20-%20I/)
+  [![Language](https://img.shields.io/badge/Language-Java%20%7C%20Python%20%7C%20NoSQL-orange.svg)](Computational%20Lab%20-%20I/)
+
+</div>
+
+> [!TIP]
+> **Prerequisites**: This laboratory requires a comprehensive setup including **Java JDK**, **Hadoop 3.x** environment, **MongoDB**, and **Python**.
+
+| # | Experiment | Report |
+|:-:|:---|:-:|
+| 1 | Installation and Setup of Hadoop Ecosystem | [View](Computational%20Lab%20-%20I/Experiment-1/AMEY_B-50_BDA_EXPERIMENT-1.pdf) |
+| 2 | Implementation of File Management using HDFS | [View](Computational%20Lab%20-%20I/Experiment-2/AMEY_B-50_BDA_EXPERIMENT-2.pdf) |
+| 3 | Implementation of MapReduce for Word Count | [View](Computational%20Lab%20-%20I/Experiment-3/AMEY_B-50_BDA_EXPERIMENT-3.pdf) |
+| 4 | Implementation of NoSQL Database Operations (MongoDB) | [View](Computational%20Lab%20-%20I/Experiment-4/AMEY_B-50_BDA_EXPERIMENT-4.pdf) |
+| 5 | Implementation of Matrix Multiplication using MapReduce | [View](Computational%20Lab%20-%20I/Experiment-5/AMEY_B-50_BDA_EXPERIMENT-5.pdf) |
+| 6 | Implementation of PCY Algorithm for Frequent Itemsets | [View](Computational%20Lab%20-%20I/Experiment-6/AMEY_B-50_BDA_EXPERIMENT-6.pdf) |
+| 7 | Implementation of K-Means Clustering Algorithm | [View](Computational%20Lab%20-%20I/Experiment-7/AMEY_B-50_BDA_EXPERIMENT-7.pdf) |
+| 8 | Implementation of PageRank Algorithm | [View](Computational%20Lab%20-%20I/Experiment-8/AMEY_B-50_BDA_EXPERIMENT-8.pdf) |
+| 9 | Implementation of Recommendation System | [View](Computational%20Lab%20-%20I/Experiment-9/AMEY_B-50_BDA_EXPERIMENT-9.pdf) |
+| 10 | Mini Project: Optimizing Stock Trading Strategy | [View](Computational%20Lab%20-%20I/Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
+
+### Laboratory Documentation
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Lab README](Computational%20Lab%20-%20I/README.md) | Detailed navigation guide with experiment descriptions |
+
+---
+
+<!-- =========================================================================================
+                                     MINI PROJECT SECTION
+     ========================================================================================= -->
+## Mini Project
+
+<div align="center">
+
+  ### 📈 [Optimizing Stock Trading Strategy with K-Means Clustering](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)
+  
+  **Data-Driven Stock Market Analysis using Unsupervised Machine Learning**
+
+  [![Project](https://img.shields.io/badge/Project-K--Means%20Clustering-purple.svg)](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)
+  [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Jupyter-blue.svg)](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)
+  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)
+
+</div>
+
+<div align="center">
+
+  #### 👥 Authors
+  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/Karan-Dhiman.png" width="150" alt="Karan Dhiman"><br>[**Karan Dhiman**](https://github.com/Karan-Dhiman) |
+  | :---: | :---: |
+
+</div>
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to [Karan Dhiman](https://github.com/Karan-Dhiman) for his meaningful contributions, guidance, and support that helped shape this work.*
+
+### Project Overview
+
+This mini project explores the application of **K-Means Clustering**, an unsupervised machine learning algorithm, to optimize stock trading strategies. By analyzing historical stock data, the system groups stocks based on performance metrics (volatility, returns), enabling investors to identify patterns and make data-driven decisions. The project leverages Python's data analysis libraries (Pandas, NumPy, Scikit-learn) to perform clustering and visualize market trends.
+
+### Resources
+
+| # | Resource | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | **Project Repository** | Complete source code and documentation | [View](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) |
+| 2 | **Project Report** | Detailed documentation and analysis | [View](BDA%20Mini-Project/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
+| 3 | **Presentation** | Visual overview of the methodology | [View](BDA%20Mini-Project/BDA_MINI-PROJECT_PPT_BE-COMPS_B-50%2C51%2C58.pdf) |
+| 4 | **Source Code** | Jupyter Notebook implementation | [View](BDA%20Mini-Project/OPTIMIZING%20STOCK%20TRADING%20STRATEGY%20WITH%20K-MEANS%20CLUSTERING.ipynb) |
+
+---
+
+<!-- =========================================================================================
+                                     IAT SECTION
+     ========================================================================================= -->
 ## Internal Assessment Test
- 
- - BDA [IAT - 1](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Internal%20Assessment%20Test/AMEY_B-50_BDA_IAT-1.pdf)
- 
- - BDA [IAT - 2](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Internal%20Assessment%20Test/AMEY_B-50_BDA_IAT-2.pdf)
 
+Internal assessment evaluations conducted during the course:
 
-## Semester Exam
- 
- - BDA [Answersheet](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Semester%20Exam/AMEY_B-50_7278000_BDA.pdf)
-
-
-## Question Papers
- 
- - [Previous Question Papers](https://github.com/Amey-Thakur/ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-AND-ARTIFICIAL-INTELLIGENCE-AND-SOFT-COMPUTING-LAB/tree/main/Question%20Papers)
-
-
-## Submission Report
- 
- - [Report](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/blob/main/Submission%20Report/BDA%20SUBMISSION%20SHEET.pdf)
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [**IAT - 1 Answer Sheet**](Internal%20Assessment%20Test/AMEY_B-50_BDA_IAT-1.pdf) | Big Data Analytics IAT 1 Submission |
+| 2 | [**IAT - 2 Answer Sheet**](Internal%20Assessment%20Test/AMEY_B-50_BDA_IAT-2.pdf) | Big Data Analytics IAT 2 Submission |
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 7th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<!-- =========================================================================================
+                                     SEMESTER EXAM SECTION
+     ========================================================================================= -->
+## Semester Exam
+
+> [!IMPORTANT]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic. All examinations and assessments were conducted in a digital format.
+
+Final semester examination submission:
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [**Semester Exam Answer Sheet**](Semester%20Exam/AMEY_B-50_7278000_BDA.pdf) | BDA Semester Exam Submission |
+
+---
+
+<!-- =========================================================================================
+                                     QUESTION PAPERS SECTION
+     ========================================================================================= -->
+## Question Papers
+
+Previous year university question papers:
+
+| # | Exam Session | Resource |
+|:-:|:---|:-:|
+| 1 | Question Papers (2012-2019) | [View](Question%20Papers) |
+
+*Note: The folder contains question papers organized by year.*
+
+---
+
+<!-- =========================================================================================
+                                     SUBMISSION REPORT SECTION
+     ========================================================================================= -->
+## Submission Completion Report
+
+Course completion documentation:
+
+| # | Document | Description |
+|:-:|:---|:---|
+| 1 | [**Submission Report**](Submission%20Report/BDA%20SUBMISSION%20SHEET.pdf) | Final coursework submission report |
+
+---
+
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
+## Syllabus
+
+> [**Official CBCGS Syllabus**](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
+> Complete Final Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for BDA.
+
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Mumbai website.
+
+---
+
+<!-- =========================================================================================
+                                     USAGE GUIDELINES SECTION
+     ========================================================================================= -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use these resources as reference materials for understanding Big Data architectures, algorithms, and preparing for examinations. All content is organized for self-paced learning.
+
+**For Educators**  
+These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
+
+---
+
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
+## License
+
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+> [!NOTE]
+> **Summary:** You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
+---
+
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
+## About This Repository
+
+**Created & Maintained by:** [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey:** Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution:** [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University:** [University of Mumbai](https://mu.ac.in/)
+
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Big Data Analytics.
+
+**Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+
+### Acknowledgments
+
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
+
+---
+
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
+<div align="center">
+
+  <!-- Footer Navigation -->
+  **[↑ Back to Top](#big-data-analytics-and-computational-lab-i)**
+
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#computational-lab---i)** &nbsp;·&nbsp; **[Mini Project](#mini-project)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+
+  <br>
+
+  **[Computational Lab - I](Computational%20Lab%20-%20I/README.md)**
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
