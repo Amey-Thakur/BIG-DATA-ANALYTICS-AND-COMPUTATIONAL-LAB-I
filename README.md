@@ -80,12 +80,12 @@ This collection includes **comprehensive reference materials** covering all majo
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Date |
-|:-:|:---|:---|:---:|
-| 1 | [**Assignment 1**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-1.pdf) | Hadoop Ecosystem, MapReduce Architecture, and NoSQL Database Concepts | October 08, 2021 |
-| 2 | [**Assignment 2**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-2.pdf) | NoSQL & MapReduce | - |
-| 3 | [**Assignments Digital**](Assignments/AMEY_B-50_BDA_Assignment_%5BDIGITAL%5D.pdf) | Compiled Digital Assignments | - |
-| 4 | [**Assignments Handwritten**](Assignments/AMEY_B-50_BDA_Assignment_%5BHANDWRITTEN%5D.pdf) | Compiled Handwritten Notes | - |
+| # | Assignment | Description | Date | Format |
+|:-:|:---|:---|:---:|:-:|
+| 1 | [**Assignment 1**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-1.pdf) | Hadoop Ecosystem, MapReduce Architecture, and NoSQL Database Concepts | October 08, 2021 | Handwritten |
+| 2 | [**Assignment 2**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-2.pdf) | NoSQL & MapReduce | - | - |
+| 3 | [**Assignments Digital**](Assignments/AMEY_B-50_BDA_Assignment_%5BDIGITAL%5D.pdf) | Compiled Digital Assignments | - | - |
+| 4 | [**Assignments Handwritten**](Assignments/AMEY_B-50_BDA_Assignment_%5BHANDWRITTEN%5D.pdf) | Compiled Handwritten Notes | - | - |
 
 **Topics Covered**: Hadoop Ecosystem (Components, Architecture, Limitations) · MapReduce Model (Map, Reduce, Shuffling) · NoSQL Databases (Business Drivers, Architectural Patterns)
 
