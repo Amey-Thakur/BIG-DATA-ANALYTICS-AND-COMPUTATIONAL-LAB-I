@@ -101,6 +101,16 @@ BDA-specific quizzes conducted during the course:
 
 ---
 
+### Personal Preparation
+
+Study materials and planning resources for effective exam preparation:
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Subject Choice](Terna%20Mail%20-%20BE%20DLOC%20Elective%20Choice%20SH%202021.pdf) | Department Level Optional Subject Choice |
+
+---
+
 <!-- =========================================================================================
                                      LABORATORY SECTION
      ========================================================================================= -->
