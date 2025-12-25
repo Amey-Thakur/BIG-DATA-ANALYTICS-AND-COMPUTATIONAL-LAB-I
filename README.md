@@ -126,7 +126,7 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 | 3 | Installation and Configuration of Sqoop | September 09, 2021 | [View](Computational%20Lab%20-%20I/Experiment-3/AMEY_B-50_BDA_EXPERIMENT-3.pdf) |
 | 4 | Neo4j Graph Database Operations | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-4/AMEY_B-50_BDA_EXPERIMENT-4.pdf) |
 | 5 | Matrix Multiplication using MapReduce | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-5/AMEY_B-50_BDA_EXPERIMENT-5.pdf) |
-| 6 | Implementation of PCY Algorithm for Frequent Itemsets | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-6/AMEY_B-50_BDA_EXPERIMENT-6.pdf) |
+| 6 | Data Analysis using Bigsheets | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-6/AMEY_B-50_BDA_EXPERIMENT-6.pdf) |
 | 7 | Implementation of K-Means Clustering Algorithm | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-7/AMEY_B-50_BDA_EXPERIMENT-7.pdf) |
 | 8 | Implementation of PageRank Algorithm | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-8/AMEY_B-50_BDA_EXPERIMENT-8.pdf) |
 | 9 | Implementation of Recommendation System | October 10, 2021 | [View](Computational%20Lab%20-%20I/Experiment-9/AMEY_B-50_BDA_EXPERIMENT-9.pdf) |
