@@ -1,0 +1,3 @@
+This blog is exclusive for all the people who are interested in learning one of the trending in current IT industry.
+This course is suitable for students, teacher, IT engineer, freshers etc.,
+It talks about the Spark with python (pyspark) from beginner till experts.
