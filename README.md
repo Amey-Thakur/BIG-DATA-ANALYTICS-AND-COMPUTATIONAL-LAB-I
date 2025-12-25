@@ -352,8 +352,6 @@ Previous year university question papers:
 | 14 | December 2012 | CBGS | [View](Question%20Papers/2012/DEC) |
 | 15 | May 2012 | CBGS | [View](Question%20Papers/2012/MAY) |
 
-*Note: The folder contains question papers organized by year.*
-
 ---
 
 <!-- =========================================================================================
