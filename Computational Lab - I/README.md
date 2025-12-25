@@ -3,28 +3,34 @@
      ========================================================================================= -->
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
-
   # Computational Lab - I
 
   ### CSL704 · Semester VII · Computer Engineering
 
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](../LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-study-of-hadoop-system)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cypher%20%7C%20MongoDB-orange.svg)](./
 
-  **Focused on the practical implementation of Big Data Analytics using Hadoop, MapReduce, NoSQL, and Data Mining algorithms.**
+)
+  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](./
+
+)
+
+  **A comprehensive collection of laboratory experiments for Big Data Analytics focusing on Hadoop ecosystem, MapReduce programming, NoSQL databases, and data mining algorithms.**
 
   ---
 
-  **[Back to Main Repository](../README.md)**
-
-  <br>
-
-  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-hadoop-installation) &nbsp;·&nbsp; [Experiment 2](#experiment-2-hdfs-commands) &nbsp;·&nbsp; [Experiment 3](#experiment-3-mapreduce-word-count) &nbsp;·&nbsp; [Experiment 4](#experiment-4-nosql-mongodb) &nbsp;·&nbsp; [Experiment 5](#experiment-5-matrix-multiplication) &nbsp;·&nbsp; [Experiment 6](#experiment-6-pcy-algorithm) &nbsp;·&nbsp; [Experiment 7](#experiment-7-k-means-clustering) &nbsp;·&nbsp; [Experiment 8](#experiment-8-pagerank) &nbsp;·&nbsp; [Experiment 9](#experiment-9-recommendation-system) &nbsp;·&nbsp; [Experiment 10](#experiment-10-mini-project)
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-study-of-hadoop-system)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-installation-of-hadoop)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-installation-and-configuration-of-sqoop)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-neo4j-graph-database-operations)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-matrix-multiplication-using-mapreduce)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-data-analysis-using-bigsheets)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-word-count-using-pyspark-mapreduce)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-dgim-algorithm-implementation)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-k-means-clustering-using-pyspark)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-mini-project)**
 
 </div>
+
+---
+
+> [!TIP]
+> **Multi-Technology Laboratory**: This laboratory utilizes diverse Big Data technologies. **Hadoop** and **HDFS** for distributed storage, **MapReduce** for parallel processing, **Neo4j** for graph databases, **MongoDB** for document stores, and **PySpark** for large-scale data analytics. Ensure you have the corresponding environments set up.
+
+> [!WARNING]
+> **Environment Setup**: Hadoop experiments require proper configuration of JAVA_HOME and HADOOP_HOME environment variables. PySpark programs need Python 3.x with Spark installed. Neo4j requires the Neo4j Desktop or server installation.
 
 ---
 
@@ -33,14 +39,44 @@
      ========================================================================================= -->
 ## How to Use
 
-This laboratory repository is structured to guide you through the setup and implementation of Big Data technologies.
+### Running Hadoop Programs
+1. **Configure** Hadoop single-node or multi-node cluster.
+2. **Set** environment variables (JAVA_HOME, HADOOP_HOME).
+3. **Execute** MapReduce jobs.
 
-- **Hadoop Experiments (1-3, 5)**: Require a configured Hadoop Single-Node or Multi-Node cluster. Java is used for MapReduce programs.
-- **NoSQL Experiments (4)**: Require MongoDB installation.
-- **Data Mining Experiments (6-10)**: Implemented in Python using libraries like Pandas, NumPy, and Scikit-learn.
+**Example:**
+```bash
+cd "Computational Lab - I/Experiment-5"
+hadoop jar MatrixMultiplication.jar input output
+```
 
-> [!TIP]
-> Ensure all environment variables (`JAVA_HOME`, `HADOOP_HOME`) are correctly set before running Hadoop commands.
+### Running Neo4j Cypher Scripts
+1. **Install** Neo4j Desktop or Server.
+2. **Open** Neo4j Browser.
+3. **Execute** Cypher queries.
+
+**Example:**
+```bash
+cd "Computational Lab - I/Experiment-4"
+# Copy queries from Neo4j_Car_Database.cypher and run in Neo4j Browser
+```
+
+### Running Python Scripts
+**Environment Setup:**
+Ensure **Python 3.x** is installed with required libraries (pandas, numpy, pyspark).
+
+**Execution:**
+```bash
+cd "Computational Lab - I/Experiment-7"
+spark-submit Word_Count_MapReduce.py
+```
+
+### Laboratory Reports
+Each experiment includes comprehensive PDF reports covering:
+- **Aim**: The specific Big Data objective.
+- **Theory**: Theoretical background of the technology/algorithm.
+- **Implementation**: Code explanation, architecture diagrams, and output screenshots.
+- Use these reports as a reference for structuring your own lab submissions.
 
 ---
 
@@ -49,221 +85,224 @@ This laboratory repository is structured to guide you through the setup and impl
      ========================================================================================= -->
 ## Learning Path
 
-The experiments are designed to build a progressive understanding of the Big Data ecosystem.
+### Phase 1: Hadoop Ecosystem
+Understanding the foundation of distributed computing.
+- **Experiment 1**: Study Hadoop architecture and components.
+- **Experiment 2**: Install and configure Hadoop single-node cluster.
+- **Experiment 3**: Integrate data using Sqoop for ETL operations.
 
-1.  **Foundation**: Setting up the environment (Exp 1) and understanding the file system (Exp 2).
-2.  **Processing**: Core MapReduce programming (Exp 3, 5).
-3.  **Storage**: Managing unstructured data with NoSQL (Exp 4).
-4.  **Analytics**: Mining frequent itemsets and clustering data (Exp 6, 7).
-5.  **Advanced**: Graph algorithms and recommendation engines (Exp 8, 9).
-6.  **Application**: Applying concepts to a real-world problem (Exp 10).
+### Phase 2: NoSQL & Graph Databases
+Managing diverse data models.
+- **Experiment 4**: Implement graph operations using Neo4j Cypher.
+- **Experiment 6**: Analyze data using IBM BigSheets.
+
+### Phase 3: MapReduce Programming
+Parallel processing for large datasets.
+- **Experiment 5**: Matrix multiplication using MapReduce.
+- **Experiment 7**: Word count using PySpark MapReduce.
+
+### Phase 4: Data Mining & Algorithms
+Advanced analytics and data stream processing.
+- **Experiment 8**: DGIM algorithm for data streams.
+- **Experiment 9**: K-Means clustering with PySpark.
+- **Experiment 10**: Stock Trading Strategy Optimization (Mini Project).
 
 ---
 
 <!-- =========================================================================================
-                                     EXPERIMENTS SECTION
+                                     EXPERIMENT 1
      ========================================================================================= -->
-## Experiment 1: Hadoop Installation
+## Experiment 1: Study of Hadoop System
 
-### Installation and Setup of Hadoop Ecosystem
+Study and analyze the Hadoop Ecosystem including HDFS architecture, MapReduce framework, and related components.
 
-<div align="center">
+**Date:** July 20, 2021
 
-  [![Date](https://img.shields.io/badge/Date-July%2027%2C%202021-blueviolet.svg)](Experiment-1/AMEY_B-50_BDA_EXPERIMENT-1.pdf)
-  [![Marks](https://img.shields.io/badge/Marks-10%2F10-brightgreen.svg)](Experiment-1/AMEY_B-50_BDA_EXPERIMENT-1.pdf)
-
-</div>
-
-**Problem Statement:** Installation of Hadoop and configuration of Single Node Cluster.
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Report** | Detailed installation guide and verification | [View](Experiment-1/AMEY_B-50_BDA_EXPERIMENT-1.pdf) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-1/AMEY_B-50_BDA_EXPERIMENT-1.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-1/AMEY_B-50_BDA_EXPERIMENT-1.docx) |
+| — | Case Study (MD) | Hadoop in Banking - The Game Changer | [View](Experiment-1/Hadoop_Banking_Case_Study.md) |
 
 ---
 
-## Experiment 2: HDFS Commands
+<!-- =========================================================================================
+                                     EXPERIMENT 2
+     ========================================================================================= -->
+## Experiment 2: Installation of Hadoop
 
-### Implementation of File Management using HDFS
+Installation and configuration of Hadoop single-node cluster with verification of successful deployment.
 
-<div align="center">
+**Date:** July 28, 2021
 
-  [![Date](https://img.shields.io/badge/Date-August%2003%2C%202021-blueviolet.svg)](Experiment-2/AMEY_B-50_BDA_EXPERIMENT-2.pdf)
-  [![Marks](https://img.shields.io/badge/Marks-10%2F10-brightgreen.svg)](Experiment-2/AMEY_B-50_BDA_EXPERIMENT-2.pdf)
-
-</div>
-
-**Problem Statement:** Performing file system operations (make directory, copy, move, delete, list) using HDFS commands.
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Report** | Command execution log and output | [View](Experiment-2/AMEY_B-50_BDA_EXPERIMENT-2.pdf) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-2/AMEY_B-50_BDA_EXPERIMENT-2.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-2/AMEY_B-50_BDA_EXPERIMENT-2.docx) |
 
 ---
 
-## Experiment 3: MapReduce Word Count
+<!-- =========================================================================================
+                                     EXPERIMENT 3
+     ========================================================================================= -->
+## Experiment 3: Installation and Configuration of Sqoop
 
-### Implementation of MapReduce for Word Count
+Installation of Apache Sqoop for transferring bulk data between Hadoop and relational databases.
 
-<div align="center">
+**Date:** September 09, 2021
 
-  [![Date](https://img.shields.io/badge/Date-August%2010%2C%202021-blueviolet.svg)](Experiment-3/AMEY_B-50_BDA_EXPERIMENT-3.pdf)
-  [![Marks](https://img.shields.io/badge/Marks-10%2F10-brightgreen.svg)](Experiment-3/AMEY_B-50_BDA_EXPERIMENT-3.pdf)
-
-</div>
-
-**Problem Statement:** Write a MapReduce program to count the frequency of words in a given input text file.
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Report** | Code explanation and execution results | [View](Experiment-3/AMEY_B-50_BDA_EXPERIMENT-3.pdf) |
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-3/AMEY_B-50_BDA_EXPERIMENT-3.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-3/AMEY_B-50_BDA_EXPERIMENT-3.docx) |
 
 ---
 
-## Experiment 4: NoSQL (MongoDB)
+<!-- =========================================================================================
+                                     EXPERIMENT 4
+     ========================================================================================= -->
+## Experiment 4: Neo4j Graph Database Operations
 
-### Implementation of NoSQL Database Operations
+Implementation of graph database operations using Neo4j Cypher query language for car database modeling.
 
-<div align="center">
+**Date:** October 10, 2021
 
-  [![Date](https://img.shields.io/badge/Date-August%2024%2C%202021-blueviolet.svg)](Experiment-4/AMEY_B-50_BDA_EXPERIMENT-4.pdf)
-  [![Marks](https://img.shields.io/badge/Marks-10%2F10-brightgreen.svg)](Experiment-4/AMEY_B-50_BDA_EXPERIMENT-4.pdf)
-
-</div>
-
-**Problem Statement:** Create a database, collections, and perform CRUD operations (Insert, Update, Delete, Find) using MongoDB.
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Report** | Query execution and database snapshots | [View](Experiment-4/AMEY_B-50_BDA_EXPERIMENT-4.pdf) |
-| **Source** | MongoDB Commands | [View](Experiment-4/AMEY_B-50_BDA_EXPERIMENT-4.docx) |
+| # | Program | Description | Source Code |
+|:-:|:---|:---|:-:|
+| 1 | Neo4j_Car_Database.cypher | Cypher queries for car database (nodes, relationships, queries) | [View](Experiment-4/Neo4j_Car_Database.cypher) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-4/AMEY_B-50_BDA_EXPERIMENT-4.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-4/AMEY_B-50_BDA_EXPERIMENT-4.docx) |
 
 ---
 
-## Experiment 5: Matrix Multiplication
+<!-- =========================================================================================
+                                     EXPERIMENT 5
+     ========================================================================================= -->
+## Experiment 5: Matrix Multiplication using MapReduce
 
-### Implementation of Matrix Multiplication using MapReduce
+Implementation of matrix multiplication using Hadoop MapReduce framework with Mapper and Reducer components.
 
-<div align="center">
+**Date:** October 05, 2021
 
-  [![Date](https://img.shields.io/badge/Date-September%2007%2C%202021-blueviolet.svg)](Experiment-5/AMEY_B-50_BDA_EXPERIMENT-5.pdf)
-  [![Marks](https://img.shields.io/badge/Marks-10%2F10-brightgreen.svg)](Experiment-5/AMEY_B-50_BDA_EXPERIMENT-5.pdf)
-
-</div>
-
-**Problem Statement:** Implement Matrix Multiplication using MapReduce framework (One-step interaction).
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Report** | Algorithm explanation and verification | [View](Experiment-5/AMEY_B-50_BDA_EXPERIMENT-5.pdf) |
-| **Mapper** | Python Mapper Script | [View](Experiment-5/Mapper.py) |
-| **Reducer** | Python Reducer Script | [View](Experiment-5/Reducer.py) |
-| **Input 1** | Matrix A Data | [View](Experiment-5/Matrix1.txt) |
-| **Input 2** | Matrix B Data | [View](Experiment-5/Matrix2.txt) |
+| # | Program | Description | Source Code |
+|:-:|:---|:---|:-:|
+| 1 | Mapper.py | MapReduce Mapper for matrix multiplication | [View](Experiment-5/Mapper.py) |
+| 2 | Reducer.py | MapReduce Reducer for matrix aggregation | [View](Experiment-5/Reducer.py) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-5/AMEY_B-50_BDA_EXPERIMENT-5.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-5/AMEY_B-50_BDA_EXPERIMENT-5.docx) |
 
 ---
 
-## Experiment 6: PCY Algorithm
+<!-- =========================================================================================
+                                     EXPERIMENT 6
+     ========================================================================================= -->
+## Experiment 6: Data Analysis using Bigsheets
 
-### Implementation of PCY Algorithm for Frequent Itemsets
+Data analysis and visualization using IBM BigSheets for processing and analyzing large datasets.
 
-<div align="center">
+**Date:** October 05, 2021
 
-  [![Date](https://img.shields.io/badge/Date-September%2014%2C%202021-blueviolet.svg)](Experiment-6/AMEY_B-50_BDA_EXPERIMENT-6.pdf)
-  [![Marks](https://img.shields.io/badge/Marks-10%2F10-brightgreen.svg)](Experiment-6/AMEY_B-50_BDA_EXPERIMENT-6.pdf)
-
-</div>
-
-**Problem Statement:** Implement the PCY (Park-Chen-Yu) algorithm to improve the efficiency of the Apriori algorithm for finding frequent itemsets.
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Report** | Implementation details and frequent bucket analysis | [View](Experiment-6/AMEY_B-50_BDA_EXPERIMENT-6.pdf) |
-
----
-
-## Experiment 7: K-Means Clustering
-
-### Implementation of K-Means Clustering Algorithm
-
-<div align="center">
-
-  [![Date](https://img.shields.io/badge/Date-September%2021%2C%202021-blueviolet.svg)](Experiment-7/AMEY_B-50_BDA_EXPERIMENT-7.pdf)
-  [![Marks](https://img.shields.io/badge/Marks-10%2F10-brightgreen.svg)](Experiment-7/AMEY_B-50_BDA_EXPERIMENT-7.pdf)
-
-</div>
-
-**Problem Statement:** Partition a dataset into K distinct clusters based on feature similarity using the K-Means algorithm.
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Report** | Cluster visualization and centroid analysis | [View](Experiment-7/AMEY_B-50_BDA_EXPERIMENT-7.pdf) |
-| **Code** | Jupyter Notebook Implementation | [View](Experiment-7/BDA-7.ipynb) |
-| **Data** | Sample Dataset | [View](Experiment-7/sample.txt) |
+| # | Resource | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | CeesVee.csv | Truck tracking dataset for BigSheets analysis | [View](Experiment-6/CeesVee.csv) |
+| 2 | CSV_Head.csv | Field length data for analysis | [View](Experiment-6/CSV_Head.csv) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-6/AMEY_B-50_BDA_EXPERIMENT-6.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-6/AMEY_B-50_BDA_EXPERIMENT-6.docx) |
 
 ---
 
-## Experiment 8: PageRank
+<!-- =========================================================================================
+                                     EXPERIMENT 7
+     ========================================================================================= -->
+## Experiment 7: Word Count using PySpark MapReduce
 
-### Implementation of PageRank Algorithm
+Implementation of word count algorithm using PySpark MapReduce for distributed text processing.
 
-<div align="center">
+**Date:** October 05, 2021
 
-  [![Date](https://img.shields.io/badge/Date-October%2005%2C%202021-blueviolet.svg)](Experiment-8/AMEY_B-50_BDA_EXPERIMENT-8.pdf)
-  [![Marks](https://img.shields.io/badge/Marks-10%2F10-brightgreen.svg)](Experiment-8/AMEY_B-50_BDA_EXPERIMENT-8.pdf)
-
-</div>
-
-**Problem Statement:** Implement the PageRank algorithm to rank web pages (nodes) based on the link structure of a graph.
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Report** | Ranking output and convergence check | [View](Experiment-8/AMEY_B-50_BDA_EXPERIMENT-8.pdf) |
-| **Code** | Jupyter Notebook Implementation | [View](Experiment-8/BDA_8.ipynb) |
+| # | Program | Description | Source Code |
+|:-:|:---|:---|:-:|
+| 1 | Word_Count_MapReduce.py | PySpark word count implementation | [View](Experiment-7/Word_Count_MapReduce.py) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-7/AMEY_B-50_BDA_EXPERIMENT-7.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-7/AMEY_B-50_BDA_EXPERIMENT-7.docx) |
 
 ---
 
-## Experiment 9: Recommendation System
+<!-- =========================================================================================
+                                     EXPERIMENT 8
+     ========================================================================================= -->
+## Experiment 8: DGIM Algorithm Implementation
 
-### Implementation of Recommendation System
+Implementation of DGIM (Datar-Gionis-Indyk-Motwani) algorithm for counting ones in a data stream.
 
-<div align="center">
+**Date:** October 05, 2021
 
-  [![Date](https://img.shields.io/badge/Date-October%2012%2C%202021-blueviolet.svg)](Experiment-9/AMEY_B-50_BDA_EXPERIMENT-9.pdf)
-  [![Marks](https://img.shields.io/badge/Marks-10%2F10-brightgreen.svg)](Experiment-9/AMEY_B-50_BDA_EXPERIMENT-9.pdf)
-
-</div>
-
-**Problem Statement:** Build a basic recommendation system (e.g., Collaborative Filtering) to suggest items to users.
-
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Report** | System design and recommendation results | [View](Experiment-9/AMEY_B-50_BDA_EXPERIMENT-9.pdf) |
-| **Code** | Jupyter Notebook Implementation | [View](Experiment-9/BDA-9.ipynb) |
-| **Data** | Dataset (Credit Card / General) | [View](Experiment-9/CC%20GENERAL.csv) |
+| # | Program | Description | Source Code |
+|:-:|:---|:---|:-:|
+| 1 | DGIM_Algorithm.py | DGIM algorithm for stream processing | [View](Experiment-8/DGIM_Algorithm.py) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-8/AMEY_B-50_BDA_EXPERIMENT-8.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-8/AMEY_B-50_BDA_EXPERIMENT-8.docx) |
 
 ---
 
+<!-- =========================================================================================
+                                     EXPERIMENT 9
+     ========================================================================================= -->
+## Experiment 9: K-Means Clustering using PySpark
+
+Implementation of K-Means clustering algorithm using PySpark for large-scale data clustering.
+
+**Date:** October 05, 2021
+
+| # | Program | Description | Source Code |
+|:-:|:---|:---|:-:|
+| 1 | KMeans_Clustering.py | PySpark K-Means clustering implementation | [View](Experiment-9/KMeans_Clustering.py) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-9/AMEY_B-50_BDA_EXPERIMENT-9.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-9/AMEY_B-50_BDA_EXPERIMENT-9.docx) |
+
+---
+
+<!-- =========================================================================================
+                                     EXPERIMENT 10
+     ========================================================================================= -->
 ## Experiment 10: Mini Project
 
-### Case Study: Optimizing Stock Trading Strategy
-
 <div align="center">
 
-  [![Date](https://img.shields.io/badge/Date-October%2022%2C%202021-blueviolet.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
-  [![Marks](https://img.shields.io/badge/Marks-10%2F10-brightgreen.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
+  ### 📈 [Optimizing Stock Trading Strategy with K-Means Clustering](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I#big-data-analytics-mini-project)
+
+  **Application of K-Means clustering algorithm to optimize stock trading strategies through pattern recognition in historical market data**
+
+  [![Project](https://img.shields.io/badge/Project-Mini%20Project-purple.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
+  [![Platform](https://img.shields.io/badge/Platform-Hadoop%20%7C%20PySpark-yellowgreen.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
+  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
 
 </div>
 
-**Problem Statement:** Design and implement a real-world application of Big Data Analytics.
+<div align="center">
 
-> [!NOTE]
-> This experiment serves as the designated Mini Project for the semester.
+  #### 👥 Authors
+  | <img src="../Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/rizvihasan.png" width="150" alt="Hasan Rizvi"><br>[**Hasan Rizvi**](https://github.com/rizvihasan) |
+  | :---: | :---: | :---: |
 
-| Resource | Description | Link |
-|:---|:---|:-:|
-| **Report** | Comprehensive project report | [View](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
-| **Presentation** | Project presentation slides | [View](Experiment-10/BDA_MINI-PROJECT_PPT_BE-COMPS_B-50%2C51%2C58.pdf) |
+</div>
+
+> [!IMPORTANT]
+> ### 🤝🏻 Special Acknowledgement
+> *Special thanks to [Mega Satish](https://github.com/msatmod) and [Hasan Rizvi](https://github.com/rizvihasan) for their meaningful contributions, guidance, and support that helped shape this work.*
+
+#### Project Overview
+
+A Big Data analytics project that applies K-Means clustering to optimize stock trading strategies. The system analyzes historical stock market data to identify patterns and clusters that can inform trading decisions. By leveraging Big Data technologies like Hadoop and PySpark, the project demonstrates scalable processing of large financial datasets for pattern recognition and strategy optimization.
+
+**Date:** October 22, 2021
+
+#### Resources
+
+| # | Document | Description | Link |
+|:-:|:---|:---|:-:|
+| 1 | **Project Report** | Comprehensive documentation and system design | [View](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
+| 2 | **Presentation** | Visual overview of the development lifecycle | [View](Experiment-10/BDA_MINI-PROJECT_PPT_BE-COMPS_B-50%2C51%2C58.pdf) |
 
 ---
 
@@ -275,11 +314,22 @@ The experiments are designed to build a progressive understanding of the Big Dat
   <!-- Footer Navigation -->
   **[↑ Back to Top](#computational-lab---i)**
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-hadoop-installation)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-hdfs-commands)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-mapreduce-word-count)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-nosql-mongodb)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-matrix-multiplication)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-pcy-algorithm)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-k-means-clustering)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-pagerank)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-recommendation-system)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-mini-project)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-study-of-hadoop-system)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-installation-of-hadoop)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-installation-and-configuration-of-sqoop)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-neo4j-graph-database-operations)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-matrix-multiplication-using-mapreduce)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-data-analysis-using-bigsheets)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-word-count-using-pyspark-mapreduce)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-dgim-algorithm-implementation)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-k-means-clustering-using-pyspark)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-mini-project)**
 
   <br>
 
-  **[Main Repository](../README.md)**
+  **[🏠 Back to Main Repository](../)**
 
 </div>
 
+---
+
+<div align="center">
+
+  ### [Big Data Analytics and Computational Lab I](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I)
+
+  **CSL704 · Semester VII · Computer Engineering**
+
+  *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
+
+</div>
