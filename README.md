@@ -132,6 +132,88 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 | 9 | K-Means Clustering using PySpark | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-9/AMEY_B-50_BDA_EXPERIMENT-9.pdf) |
 | 10 | Mini Project: Optimizing Stock Trading Strategy with K-Means Clustering | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
 
+### Program Details
+
+<details>
+<summary><b>Experiment 1: Study of Hadoop System</b></summary>
+<br>
+
+| Document | Category | Description | Link |
+|:---|:---|:---|:-:|
+| `Hadoop_Banking_Case_Study.md` | Case Study | Hadoop's Impact on Banking Sector Analysis | [View](Computational%20Lab%20-%20I/Experiment-1/Hadoop_Banking_Case_Study.md) |
+</details>
+
+<details>
+<summary><b>Experiment 4: Neo4j Graph Database Operations</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Neo4j_Car_Database.cypher` | NoSQL | Cypher queries for car database with nodes and relationships | [View](Computational%20Lab%20-%20I/Experiment-4/Neo4j_Car_Database.cypher) |
+</details>
+
+<details>
+<summary><b>Experiment 5: Matrix Multiplication using MapReduce</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Mapper.py` | MapReduce | Mapper for matrix multiplication (2x3 × 3x2) | [View](Computational%20Lab%20-%20I/Experiment-5/Mapper.py) |
+| `Reducer.py` | MapReduce | Reducer for aggregating matrix products | [View](Computational%20Lab%20-%20I/Experiment-5/Reducer.py) |
+</details>
+
+<details>
+<summary><b>Experiment 6: Data Analysis using Bigsheets</b></summary>
+<br>
+
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| `CeesVee.csv` | Dataset | Truck tracking data with location and driver information | [View](Computational%20Lab%20-%20I/Experiment-6/CeesVee.csv) |
+| `CSV_Head.csv` | Dataset | Field length analysis data | [View](Computational%20Lab%20-%20I/Experiment-6/CSV_Head.csv) |
+</details>
+
+<details>
+<summary><b>Experiment 7: Word Count using PySpark MapReduce</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Word_Count_MapReduce.py` | PySpark | Word count implementation using Spark context | [View](Computational%20Lab%20-%20I/Experiment-7/Word_Count_MapReduce.py) |
+| `Word_Count_MapReduce.ipynb` | PySpark | Interactive notebook for word frequency analysis | [View](Computational%20Lab%20-%20I/Experiment-7/Word_Count_MapReduce.ipynb) |
+| `sample.txt` | Dataset | Input text file for word count analysis | [View](Computational%20Lab%20-%20I/Experiment-7/sample.txt) |
+</details>
+
+<details>
+<summary><b>Experiment 8: DGIM Algorithm Implementation</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `DGIM_Algorithm.py` | Stream Processing | DGIM algorithm for counting 1s in binary streams | [View](Computational%20Lab%20-%20I/Experiment-8/DGIM_Algorithm.py) |
+| `DGIM_Algorithm.ipynb` | Stream Processing | Interactive notebook for DGIM stream analysis | [View](Computational%20Lab%20-%20I/Experiment-8/DGIM_Algorithm.ipynb) |
+</details>
+
+<details>
+<summary><b>Experiment 9: K-Means Clustering using PySpark</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `KMeans_Clustering.py` | Machine Learning | K-Means clustering for customer segmentation | [View](Computational%20Lab%20-%20I/Experiment-9/KMeans_Clustering.py) |
+| `KMeans_Clustering.ipynb` | Machine Learning | Interactive notebook with silhouette score visualization | [View](Computational%20Lab%20-%20I/Experiment-9/KMeans_Clustering.ipynb) |
+| `CC GENERAL.csv` | Dataset | Credit card customer data (9K cardholders) | [View](Computational%20Lab%20-%20I/Experiment-9/CC%20GENERAL.csv) |
+</details>
+
+<details>
+<summary><b>Experiment 10: Mini Project (Stock Trading Strategy)</b></summary>
+<br>
+
+| Document | Category | Description | Link |
+|:---|:---|:---|:-:|
+| `BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50,51,58.pdf` | Report | Complete project report with methodology and results | [View](Computational%20Lab%20-%20I/Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
+| `BDA_MINI-PROJECT_PPT_BE-COMPS_B-50,51,58.pdf` | Presentation | Final project presentation slides | [View](Computational%20Lab%20-%20I/Experiment-10/BDA_MINI-PROJECT_PPT_BE-COMPS_B-50%2C51%2C58.pdf) |
+</details>
+
 ### Laboratory Documentation
 
 | # | Resource | Description |
