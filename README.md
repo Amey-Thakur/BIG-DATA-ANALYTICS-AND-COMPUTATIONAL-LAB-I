@@ -80,11 +80,11 @@ This collection includes **comprehensive reference materials** covering all majo
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Date | Format |
-|:-:|:---|:---|:---:|:-:|
-| 1 | [**Assignment 1**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-1.pdf) | Hadoop Ecosystem, MapReduce Architecture, and NoSQL Database Concepts | October 08, 2021 | Handwritten |
-| 2 | [**Assignment 1**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-1_%5BDIGITAL%5D.pdf) | Hadoop Ecosystem, MapReduce Architecture, and NoSQL Database Concepts | October 08, 2021 | Digital |
-| 3 | [**Assignment 2**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-2.pdf) | Data Stream Management Systems (DSMS), Finding Similar Items, and Girvan-Newman Algorithm | October 08, 2021 | Handwritten |
+| # | Assignment | Description | Date | Marks | Format |
+|:-:|:---|:---|:---:|:-:|:-:|
+| 1 | [**Assignment 1**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-1.pdf) | Hadoop Ecosystem, MapReduce Architecture, and NoSQL Database Concepts | October 08, 2021 | 8/10 | Handwritten |
+| 2 | [**Assignment 1**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-1_%5BDIGITAL%5D.pdf) | Hadoop Ecosystem, MapReduce Architecture, and NoSQL Database Concepts | October 08, 2021 | 8/10 | Digital |
+| 3 | [**Assignment 2**](Assignments/AMEY_B-50_BDA_ASSIGNMENT-2.pdf) | Data Stream Management Systems (DSMS), Finding Similar Items, and Girvan-Newman Algorithm | October 08, 2021 | 8/10 | Handwritten |
 
 **Topics Covered**: Hadoop Ecosystem (Components, Architecture, Limitations) · MapReduce Model (Map, Reduce, Shuffling) · NoSQL Databases (Business Drivers, Architectural Patterns) · Data Stream Management Systems (DSMS) · Finding Similar Items · Girvan-Newman Algorithm
 
