@@ -94,10 +94,10 @@ Academic assignments for comprehensive learning and practice:
 
 BDA-specific quizzes conducted during the course:
 
-| # | Quiz | Topics | Marks |
-|:-:|:---:|:---|:-:|
-| 1 | [Quiz 1](Quizzes/MCQ%20Test-NOSQL-18-08-2021.pdf) | NoSQL Databases | 6/6 |
-| 2 | [Quiz 2](Quizzes/MCQ-LAB%20Test-MAPREDUCE(B)-23-08-2021.pdf) | MapReduce Programming | 10/10 |
+| # | Quiz | Topics | Date | Marks |
+|:-:|:---:|:---|:---:|:-:|
+| 1 | [Quiz 1](Quizzes/MCQ%20Test-NOSQL-18-08-2021.pdf) | NoSQL Databases | August 18, 2021 | 6/6 |
+| 2 | [Quiz 2](Quizzes/MCQ-LAB%20Test-MAPREDUCE(B)-23-08-2021.pdf) | MapReduce Programming | August 23, 2021 | 10/10 |
 
 ---
 
