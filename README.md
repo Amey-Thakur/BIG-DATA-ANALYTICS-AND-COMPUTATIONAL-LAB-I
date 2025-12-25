@@ -276,10 +276,17 @@ This mini project explores the application of **K-Means Clustering**, an unsuper
 
 Internal assessment evaluations conducted during the course:
 
+### IAT - 1 - September 03, 2021
+
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [**IAT - 1 Answer Sheet**](Internal%20Assessment%20Test/AMEY_B-50_BDA_IAT-1.pdf) | Big Data Analytics IAT 1 Submission |
-| 2 | [**IAT - 2 Answer Sheet**](Internal%20Assessment%20Test/AMEY_B-50_BDA_IAT-2.pdf) | Big Data Analytics IAT 2 Submission |
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_BDA_IAT-1.pdf) | BDA Internal Assessment Test 1 Answer Sheet |
+
+### IAT - 2 - October 13, 2021
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_BDA_IAT-2.pdf) | BDA Internal Assessment Test 2 Answer Sheet |
 
 ---
 
