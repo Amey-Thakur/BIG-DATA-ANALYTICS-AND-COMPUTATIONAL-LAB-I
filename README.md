@@ -242,7 +242,7 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 <div align="center">
 
   #### 👥 Authors
-  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/rizvihasan.png" width="150" alt="Hasan Rizvi"><br>[**Hasan Rizvi**](https://github.com/rizvihasan) | <img src="Mega/Mega_Professional.jpg" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
+  | <img src="https://github.com/Amey-Thakur.png" width="150" alt="Amey Thakur"><br>[**Amey Thakur**](https://github.com/Amey-Thakur) | <img src="https://github.com/rizvihasan.png" width="150" alt="Hasan Rizvi"><br>[**Hasan Rizvi**](https://github.com/rizvihasan) | <img src="Mega/Mega.png" width="150" alt="Mega Satish"><br>[**Mega Satish**](https://github.com/msatmod) |
   | :---: | :---: | :---: |
 
 </div>
