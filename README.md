@@ -104,7 +104,7 @@ Academic assignments for comprehensive learning and practice:
 
 Lab classwork sessions conducted during the online course:
 
-| # | Resource | Description | Format |
+| # | Resource | Description | Report |
 |:-:|:---|:---|:-:|
 | 1 | [Case Study](Classwork/Case%20Study%20-%20Hadoop%20in%20Banking.pdf) | Hadoop in Banking: The Game Changer - Big Data application in finance industry | [Download](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/raw/main/Classwork/Case%20Study%20-%20Hadoop%20in%20Banking.pdf) |
 | 2 | [Case Study](Classwork/AMEY_B-50_CASE_STUDY_STUDY_ON_RECENT_TIME_MOBILE_PHONE.pdf) | Study on iPhone SE (2nd Generation): Marketing analysis and product positioning | [Download](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/raw/main/Classwork/AMEY_B-50_CASE_STUDY_STUDY_ON_RECENT_TIME_MOBILE_PHONE.pdf) |
