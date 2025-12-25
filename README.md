@@ -100,6 +100,16 @@ Academic assignments for comprehensive learning and practice:
 
 ---
 
+### Classwork
+
+Lab classwork sessions conducted during the online course:
+
+| # | Resource | Description | Format |
+|:-:|:---|:---|:-:|
+| 1 | Case Study | Study on iPhone SE (2nd Generation): Marketing analysis and product positioning | [View](Classwork/AMEY_B-50_CASE_STUDY_STUDY_ON_RECENT_TIME_MOBILE_PHONE.pdf) \| [Download](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I/raw/main/Classwork/AMEY_B-50_CASE_STUDY_STUDY_ON_RECENT_TIME_MOBILE_PHONE.pdf) |
+
+---
+
 ### Quizzes
 
 BDA-specific quizzes conducted during the course:
