@@ -334,9 +334,23 @@ Final semester examination submission:
 
 Previous year university question papers:
 
-| # | Exam Session | Resource |
-|:-:|:---|:-:|
-| 1 | Question Papers (2012-2019) | [View](Question%20Papers) |
+| # | Exam Session | Syllabus | Resource |
+|:-:|:---|:-:|:-:|
+| 1 | May 2019 | CBCGS | [View](Question%20Papers/2019) |
+| 2 | December 2018 | CBCGS | [View](Question%20Papers/2018) |
+| 3 | May 2018 | CBCGS | [View](Question%20Papers/2018) |
+| 4 | December 2017 | CBCGS | [View](Question%20Papers/2017) |
+| 5 | May 2017 | CBCGS | [View](Question%20Papers/2017) |
+| 6 | December 2016 | CBCGS | [View](Question%20Papers/2016) |
+| 7 | May 2016 | CBCGS | [View](Question%20Papers/2016) |
+| 8 | December 2015 | CBGS | [View](Question%20Papers/2015) |
+| 9 | May 2015 | CBGS | [View](Question%20Papers/2015) |
+| 10 | December 2014 | CBGS | [View](Question%20Papers/2014) |
+| 11 | May 2014 | CBGS | [View](Question%20Papers/2014) |
+| 12 | December 2013 | CBGS | [View](Question%20Papers/2013) |
+| 13 | May 2013 | CBGS | [View](Question%20Papers/2013) |
+| 14 | December 2012 | CBGS | [View](Question%20Papers/2012) |
+| 15 | May 2012 | CBGS | [View](Question%20Papers/2012) |
 
 *Note: The folder contains question papers organized by year.*
 
