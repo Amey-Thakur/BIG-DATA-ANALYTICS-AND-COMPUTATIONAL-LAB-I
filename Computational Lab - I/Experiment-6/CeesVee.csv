@@ -1,0 +1,9 @@
+truck,driver,event,latitude,longitude,city,state,velocity,event_ind,idling_ind
+A54,A54,normal,38.440467,-122.714431,Santa Rosa,California,17,0,0
+A20,A20,normal,36.977173,-121.898402,Aptos,California,27,0,0
+A40,A40,Over speed,37.957702,-121.29078,Stockton,California,77,1,0
+A31,A31,normal,39.403608,-123.355566,Willits,California,22,0,0
+A71,A71,normal,33.683947,-117.794694,Irvine,California,43,0,0
+A50,A50,normal,38.40765,-122.947713,Occidental,California,0,0,1
+A51,A51,normal,37.639097,-120.996878,Modesto,California,0,0,1
+A19,A19,normal,37.962146,-122.345526,San Pablo,California,0,0,1
