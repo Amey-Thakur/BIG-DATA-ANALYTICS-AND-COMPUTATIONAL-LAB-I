@@ -3,7 +3,7 @@
      ========================================================================================= -->
 <div align="center">
 
-  # Computational Lab - I
+  # Big Data Analytics Lab
 
   ### CSL704 · Semester VII · Computer Engineering
 
@@ -285,7 +285,7 @@ Implementation of K-Means clustering algorithm using PySpark for large-scale dat
 
 > [!IMPORTANT]
 > ### 🤝🏻 Special Acknowledgement
-> *Special thanks to [Mega Satish](https://github.com/msatmod) and [Hasan Rizvi](https://github.com/rizvihasan) for their meaningful contributions, guidance, and support that helped shape this work.*
+> *Special thanks to [**Mega Satish**](https://github.com/msatmod) and [**Hasan Rizvi**](https://github.com/rizvihasan) for their meaningful contributions, guidance, and support that helped shape this work.*
 
 #### Project Overview
 
@@ -297,8 +297,8 @@ A Big Data analytics project that applies K-Means clustering to optimize stock t
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | **Project Report** | Comprehensive documentation and system design | [View](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
-| 2 | **Presentation** | Visual overview of the development lifecycle | [View](Experiment-10/BDA_MINI-PROJECT_PPT_BE-COMPS_B-50%2C51%2C58.pdf) |
+| 1 | Project Report | Comprehensive documentation and system design | [View](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
+| 2 | Presentation | Visual overview of the development lifecycle | [View](Experiment-10/BDA_MINI-PROJECT_PPT_BE-COMPS_B-50%2C51%2C58.pdf) |
 
 ---
 
@@ -322,7 +322,7 @@ A Big Data analytics project that applies K-Means clustering to optimize stock t
 
 <div align="center">
 
-  ### [Big Data Analytics and Computational Lab I](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I)
+  ### [Big Data Analytics and Computational Laboratory I](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I)
 
   **CSL704 · Semester VII · Computer Engineering**
 
