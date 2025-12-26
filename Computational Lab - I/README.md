@@ -16,7 +16,7 @@
 
   ---
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-study-of-hadoop-system)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-installation-of-hadoop)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-installation-and-configuration-of-sqoop)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-neo4j-graph-database-operations)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-matrix-multiplication-using-mapreduce)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-data-analysis-using-bigsheets)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-word-count-using-pyspark-mapreduce)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-dgim-algorithm-implementation)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-k-means-clustering-using-pyspark)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-mini-project)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-study-of-hadoop-system) &nbsp;·&nbsp; [Experiment 2](#experiment-2-installation-of-hadoop) &nbsp;·&nbsp; [Experiment 3](#experiment-3-installation-and-configuration-of-sqoop) &nbsp;·&nbsp; [Experiment 4](#experiment-4-neo4j-graph-database-operations) &nbsp;·&nbsp; [Experiment 5](#experiment-5-matrix-multiplication-using-mapreduce) &nbsp;·&nbsp; [Experiment 6](#experiment-6-data-analysis-using-bigsheets) &nbsp;·&nbsp; [Experiment 7](#experiment-7-word-count-using-pyspark-mapreduce) &nbsp;·&nbsp; [Experiment 8](#experiment-8-dgim-algorithm-implementation) &nbsp;·&nbsp; [Experiment 9](#experiment-9-k-means-clustering-using-pyspark) &nbsp;·&nbsp; [Experiment 10](#experiment-10-mini-project)
 
 </div>
 
@@ -308,13 +308,13 @@ A Big Data analytics project that applies K-Means clustering to optimize stock t
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#computational-lab---i)**
+  [↑ Back to Top](#computational-lab---i)
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-study-of-hadoop-system)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-installation-of-hadoop)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-installation-and-configuration-of-sqoop)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-neo4j-graph-database-operations)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-matrix-multiplication-using-mapreduce)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-data-analysis-using-bigsheets)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-word-count-using-pyspark-mapreduce)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-dgim-algorithm-implementation)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-k-means-clustering-using-pyspark)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-mini-project)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-study-of-hadoop-system) &nbsp;·&nbsp; [Experiment 2](#experiment-2-installation-of-hadoop) &nbsp;·&nbsp; [Experiment 3](#experiment-3-installation-and-configuration-of-sqoop) &nbsp;·&nbsp; [Experiment 4](#experiment-4-neo4j-graph-database-operations) &nbsp;·&nbsp; [Experiment 5](#experiment-5-matrix-multiplication-using-mapreduce) &nbsp;·&nbsp; [Experiment 6](#experiment-6-data-analysis-using-bigsheets) &nbsp;·&nbsp; [Experiment 7](#experiment-7-word-count-using-pyspark-mapreduce) &nbsp;·&nbsp; [Experiment 8](#experiment-8-dgim-algorithm-implementation) &nbsp;·&nbsp; [Experiment 9](#experiment-9-k-means-clustering-using-pyspark) &nbsp;·&nbsp; [Experiment 10](#experiment-10-mini-project)
 
   <br>
 
-  🏠 **[Back to Main Repository](../)** &nbsp;·&nbsp; **[📈 Stock Trading Optimization with K-Means](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)**
+  🏠 **[Back to Main Repository](../)** &nbsp;·&nbsp; 📈 **[Stock Trading Optimization with K-Means](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)**
 
 </div>
 
