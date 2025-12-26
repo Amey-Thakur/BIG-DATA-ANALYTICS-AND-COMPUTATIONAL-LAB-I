@@ -447,7 +447,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[Computational Lab - I](Computational%20Lab%20-%20I/README.md)** &nbsp;·&nbsp; **[Mini Project Repository](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)**
+  **[Computational Lab - I](Computational%20Lab%20-%20I/README.md)** &nbsp;·&nbsp; **[📈 Stock Trading Optimization with K-Means](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)**
 
 </div>
 

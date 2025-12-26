@@ -314,7 +314,7 @@ A Big Data analytics project that applies K-Means clustering to optimize stock t
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  **[🏠 Back to Main Repository](../)** &nbsp;·&nbsp; **[📈 Stock Trading Optimization with K-Means](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING)**
 
 </div>
 
