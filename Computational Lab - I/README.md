@@ -3,7 +3,7 @@
      ========================================================================================= -->
 <div align="center">
 
-  # Big Data Analytics Lab
+  # Computational Lab - I
 
   ### CSL704 · Semester VII · Computer Engineering
 
@@ -322,7 +322,7 @@ A Big Data analytics project that applies K-Means clustering to optimize stock t
 
 <div align="center">
 
-  ### [Big Data Analytics and Computational Laboratory I](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I)
+  ### [Big Data Analytics and Computational Lab I](https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I)
 
   **CSL704 · Semester VII · Computer Engineering**
 
