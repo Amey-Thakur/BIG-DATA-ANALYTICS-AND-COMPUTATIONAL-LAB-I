@@ -14,7 +14,7 @@
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  **A comprehensive academic resource for Big Data Analytics (BDA) and Computational Lab - I, featuring Hadoop ecosystem experiments, NoSQL databases, MapReduce implementations, and data mining techniques.**
+  **A comprehensive academic resource for Big Data Analytics (BDA) and Computational Lab - I (CL-I), featuring Hadoop ecosystem experiments, NoSQL databases, MapReduce implementations, and data mining techniques.**
 
   ---
 
