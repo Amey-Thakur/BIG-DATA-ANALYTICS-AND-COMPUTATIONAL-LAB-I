@@ -329,4 +329,3 @@ A Big Data analytics project that applies K-Means clustering to optimize stock t
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
-
