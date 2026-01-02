@@ -1,27 +1,23 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Big Data Analytics - Academic Repository
+# Specialized .gitignore for data science and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# Python
+# Python Build Artifacts
 __pycache__/
 *.py[cod]
 *$py.class
@@ -33,9 +29,8 @@ env/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-# Hadoop / Big Data
+# Hadoop / Big Data / Processing
 *.log
-# Generic output directories
 output/
 target/
 
@@ -47,7 +42,7 @@ target/
 ~$*.xls
 ~$*.xlsx
 
-# LaTeX (if used)
+# LaTeX / Document Artifacts
 *.aux
 *.bbl
 *.blg
@@ -57,6 +52,8 @@ target/
 *.lot
 *.out
 *.toc
+*.log
+*.synctex.gz
 
 # Archives
 *.zip
@@ -64,5 +61,13 @@ target/
 *.rar
 *.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
