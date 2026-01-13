@@ -281,12 +281,12 @@ This mini-project explores the application of **K-Means Clustering**, an unsuper
 
 ### Resources
 
-| # | Resource | Description | Date | Link |
-|:-:|:---|:---|:---:|:-:|
-| 1 | Project Repository | Complete source code and documentation | - | [View](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) |
-| 2 | Project Report | Detailed documentation and analysis | October 05, 2021 | [View](Mini-Project/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
-| 3 | Presentation | Visual overview of the methodology | October 05, 2021 | [View](Mini-Project/BDA_MINI-PROJECT_PPT_BE-COMPS_B-50%2C51%2C58.pdf) |
-| 4 | Source Code | Jupyter Notebook implementation | - | [View](Mini-Project/OPTIMIZING%20STOCK%20TRADING%20STRATEGY%20WITH%20K-MEANS%20CLUSTERING.ipynb) |
+| # | Resource | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [**Project Repository**](https://github.com/Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-K-MEANS-CLUSTERING) | Complete source code and documentation | - |
+| 2 | [**Project Report**](Mini-Project/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) | Detailed documentation and analysis | October 05, 2021 |
+| 3 | [**Presentation**](Mini-Project/BDA_MINI-PROJECT_PPT_BE-COMPS_B-50%2C51%2C58.pdf) | Visual overview of the methodology | October 05, 2021 |
+| 4 | [**Source Code**](Mini-Project/OPTIMIZING%20STOCK%20TRADING%20STRATEGY%20WITH%20K-MEANS%20CLUSTERING.ipynb) | Jupyter Notebook implementation | - |
 
 ---
 
