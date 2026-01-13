@@ -430,7 +430,7 @@ Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her
 
 Grateful acknowledgment to [**Hasan Rizvi**](https://github.com/rizvihasan) for his exceptional contribution to this repository through the collaborative Mini Project on Stock Trading Strategy Optimization with K-Means Clustering. Working alongside Hasan was a truly enriching experience - his technical expertise in data preprocessing and clustering algorithms, creative problem-solving, and unwavering dedication made every challenge feel surmountable. Beyond his analytical skills, it was his collaborative spirit and enthusiasm for exploring Big Data applications that transformed this project from a concept into a robust utility. His patience in code reviews, willingness to tackle complex algorithms, and commitment to delivering quality work inspired growth and learning throughout the development process. Thank you, Hasan, for being an outstanding project partner and for all the knowledge you shared along the way.
 
-Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Big Data Analytics. Their clear teaching and continued support helped develop a strong understanding of distributed systems and data analytics.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Big Data Analytics. Their clear teaching and continued support helped develop a strong understanding of distributed systems and data analytics.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
