@@ -23,7 +23,7 @@
 ---
 
 > [!TIP]
-> 🐘 **[HADOOP](https://github.com/Amey-Thakur/HADOOP)**: I specifically created this repository for this course to demonstrate Matrix Multiplication using the MapReduce paradigm. It serves as a foundational case study. Read, learn, and understand its structure to master the core distributed computing concepts before proceeding with the experiments.
+> 🐘 **[HADOOP](https://github.com/Amey-Thakur/HADOOP)**: I specifically created this repository for this course to demonstrate Matrix Multiplication using the MapReduce paradigm. It serves as a foundational case study. Read, learn, and understand its structure to master the core Big Data Analytics concepts before proceeding with the experiments.
 >
 > **Cluster Configuration**: For optimal learning, start with Hadoop Single-Node cluster setup (Experiments 1-2) before attempting Multi-Node configuration. Use Ubuntu/Linux virtual machines for better Hadoop compatibility. Keep separate development directories for MapReduce programs and dataset files to maintain clean project organization.
 
