@@ -139,6 +139,8 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 
 > [!TIP]
 > **Prerequisites**: Experiments build progressively - complete Hadoop installation and configuration (Experiments 1-3) before attempting MapReduce programming (Experiments 5, 7). Familiarity with Java is essential for Hadoop, while Python proficiency is required for PySpark experiments (Experiments 7, 9). Keep backups of your Hadoop configuration files before making changes.
+>
+> 🐘 **[HADOOP](https://github.com/Amey-Thakur/HADOOP)**: This repository was specifically created for this course to demonstrate Matrix Multiplication using the MapReduce paradigm. It serves as a foundational case study—read, learn, and understand its structure to master the core concepts before proceeding with the experiments.
 
 | # | Experiment | Date | Report |
 |:-:|:---|:---:|:-:|
