@@ -289,7 +289,7 @@ Implementation of K-Means clustering algorithm using PySpark for large-scale dat
 
 #### Project Overview
 
-A Big Data analytics project that applies K-Means clustering to optimize stock trading strategies. The system analyzes historical stock market data to identify patterns and clusters that can inform trading decisions. By leveraging Big Data technologies like Hadoop and PySpark, the project demonstrates scalable processing of large financial datasets for pattern recognition and strategy optimization.
+A Big Data analytics mini-project that applies K-Means clustering to optimize stock trading strategies. The system analyzes historical stock market data to identify patterns and clusters that can inform trading decisions. By leveraging Big Data technologies like Hadoop and PySpark, the project demonstrates scalable processing of large financial datasets for pattern recognition and strategy optimization.
 
 **Date:** October 22, 2021
 
