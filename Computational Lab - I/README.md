@@ -23,7 +23,7 @@
 ---
 
 > [!TIP]
-> **Cluster Configuration**: For optimal learning, start with Hadoop Single-Node cluster setup (Experiments 1-2) before attempting Multi-Node configuration. Use Ubuntu/Linux virtual machines for better Hadoop compatibility. Keep separate development directories for MapReduce programs and dataset files to maintain clean project organization. Before proceeding with experiments, we strongly recommend studying the 🐘 **[HADOOP](https://github.com/Amey-Thakur/HADOOP)** repository—specifically created for this course to demonstrate Matrix Multiplication using the MapReduce paradigm—as a foundational case study to master the core distributed computing concepts.
+> 🐘 **[HADOOP](https://github.com/Amey-Thakur/HADOOP)**: I specifically created this repository for this course to demonstrate Matrix Multiplication using the MapReduce paradigm. It serves as a foundational case study—read, learn, and understand its structure to master the core distributed computing concepts before proceeding with the experiments. **Cluster Configuration**: For optimal learning, start with Hadoop Single-Node cluster setup (Experiments 1-2) before attempting Multi-Node configuration. Use Ubuntu/Linux virtual machines for better Hadoop compatibility. Keep separate development directories for MapReduce programs and dataset files to maintain clean project organization.
 
 > [!WARNING]
 > **Java Version Compatibility**: Hadoop 2.x requires Java 8 (NOT Java 11+). Using incompatible Java versions will cause ClassNotFoundException errors. Always verify `java -version` and `JAVA_HOME` settings before running MapReduce jobs. PySpark requires Python 3.6+ but may have compatibility issues with Python 3.10+ for certain libraries.
