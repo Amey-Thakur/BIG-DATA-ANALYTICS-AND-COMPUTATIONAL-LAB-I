@@ -261,7 +261,7 @@ Implementation of K-Means clustering algorithm using PySpark for large-scale dat
 <!-- =========================================================================================
                                      EXPERIMENT 10
      ========================================================================================= -->
-## Experiment 10: Mini Project
+## Experiment 10: Mini-Project
 
 <div align="center">
 

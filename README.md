@@ -151,7 +151,7 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 | 7 | Word Count using PySpark MapReduce | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-7/AMEY_B-50_BDA_EXPERIMENT-7.pdf) |
 | 8 | DGIM Algorithm Implementation | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-8/AMEY_B-50_BDA_EXPERIMENT-8.pdf) |
 | 9 | K-Means Clustering using PySpark | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-9/AMEY_B-50_BDA_EXPERIMENT-9.pdf) |
-| 10 | Mini Project: Optimizing Stock Trading Strategy with K-Means Clustering | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
+| 10 | Mini-Project: Optimizing Stock Trading Strategy with K-Means Clustering | October 05, 2021 | [View](Computational%20Lab%20-%20I/Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf) |
 
 ### Program Details
 
@@ -226,7 +226,7 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 </details>
 
 <details>
-<summary><b>Experiment 10: Mini Project (Stock Trading Strategy)</b></summary>
+<summary><b>Experiment 10: Mini-Project (Stock Trading Strategy)</b></summary>
 <br>
 
 | Document | Category | Description | Link |
