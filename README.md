@@ -50,7 +50,7 @@ As a computer engineer, understanding Big Data technologies is crucial for devel
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of Big Data concepts.
-- **Academic Documentation**: To authentically document my learning journey through BDA.
+- **Academic Documentation**: To authentically document my learning journey through Big Data Analytics and Computational Lab I.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 > [!NOTE]
