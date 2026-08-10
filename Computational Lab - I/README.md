@@ -7,10 +7,10 @@
 
   ### CSL704 · Semester VII · Computer Engineering
 
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-study-of-hadoop-system)
-  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cypher%20%7C%20MongoDB-orange.svg)](#experiment-1-study-of-hadoop-system)
-  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](#experiment-1-study-of-hadoop-system)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
+  [![Documents](https://img.shields.io/badge/Documents-10-3949AB.svg)](#experiment-1-study-of-hadoop-system)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Cypher%20%7C%20MongoDB-8250DF.svg)](#experiment-1-study-of-hadoop-system)
+  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-546E7A.svg)](#experiment-1-study-of-hadoop-system)
 
   **A comprehensive collection of laboratory experiments for Big Data Analytics focusing on Hadoop ecosystem, MapReduce programming, NoSQL databases, and data mining algorithms.**
 
@@ -271,9 +271,9 @@ Implementation of K-Means clustering algorithm using PySpark for large-scale dat
 
   **Application of K-Means clustering algorithm to optimize stock trading strategies through pattern recognition in historical market data**
 
-  [![Project](https://img.shields.io/badge/Project-Mini%20Project-purple.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
-  [![Platform](https://img.shields.io/badge/Platform-Hadoop%20%7C%20PySpark-yellowgreen.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
-  [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
+  [![Project](https://img.shields.io/badge/Project-Mini%20Project-BF3989.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
+  [![Platform](https://img.shields.io/badge/Platform-Hadoop%20%7C%20PySpark-00838F.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
+  [![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)](Experiment-10/BDA_MINI-PROJECT_REPORT_BE-COMPS_B-50%2C51%2C58.pdf)
 
 </div>
 
@@ -332,3 +332,4 @@ A Big Data analytics mini-project that applies K-Means clustering to optimize st
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
+

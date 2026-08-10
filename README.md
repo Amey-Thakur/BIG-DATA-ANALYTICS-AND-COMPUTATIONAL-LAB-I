@@ -10,9 +10,9 @@
   ### CSDLO7032 & CSL704 · Semester VII · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Big Data Analytics (BDA) and Computational Lab - I (CL-I), featuring Hadoop ecosystem experiments, NoSQL databases, MapReduce implementations, and data mining techniques.**
 
@@ -132,9 +132,9 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](Computational%20Lab%20-%20I/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](Computational%20Lab%20-%20I/)
-  [![Language](https://img.shields.io/badge/Language-Java%20%7C%20Python%20%7C%20NoSQL-orange.svg)](Computational%20Lab%20-%20I/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-3949AB.svg)](Computational%20Lab%20-%20I/)
+  [![Status](https://img.shields.io/badge/Status-Complete-2EA043.svg)](Computational%20Lab%20-%20I/)
+  [![Language](https://img.shields.io/badge/Language-Java%20%7C%20Python%20%7C%20NoSQL-8250DF.svg)](Computational%20Lab%20-%20I/)
 
 </div>
 
@@ -257,11 +257,11 @@ The laboratory component (CSL704) focuses on hands-on implementation of Big Data
   
   **Data-Driven Stock Market Analysis using Unsupervised Machine Learning**
 
-  ![Project](https://img.shields.io/badge/Project-Stock%20Trading%20Strategy-purple.svg)
-  ![Platform](https://img.shields.io/badge/Platform-Python-blue.svg)
-  ![Technology](https://img.shields.io/badge/Technology-K--Means%20Clustering-orange.svg)
-  ![Stack](https://img.shields.io/badge/Stack-Pandas%20%7C%20NumPy%20%7C%20Scikit--learn-yellow.svg)
-  ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+  ![Project](https://img.shields.io/badge/Project-Stock%20Trading%20Strategy-BF3989.svg)
+  ![Platform](https://img.shields.io/badge/Platform-Python-3776AB.svg)
+  ![Technology](https://img.shields.io/badge/Technology-K--Means%20Clustering-8250DF.svg)
+  ![Stack](https://img.shields.io/badge/Stack-Pandas%20%7C%20NumPy%20%7C%20Scikit--learn-8250DF.svg)
+  ![Status](https://img.shields.io/badge/Status-Completed-2EA043.svg)
 
 </div>
 
