@@ -1,0 +1,44 @@
+# Big Data Analytics and Computational Lab I
+
+> CSDLO7032: Big Data Analytics [BDA] & CSL704: Computational Lab - I | BE
+> Semester VII | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Fourth Year, Semester VII
+Course codes: CSDLO7032, CSL704
+Licence: CC BY 4.0, attribution required
+Repository created: 30 July 2021
+Work dated: 19 January 2022
+
+## What is in this repository
+
+- Assignments, 8 files
+- Classwork, 4 files
+- Computational Lab - I, 38 files
+- Internal Assessment Test, 2 files
+- Mega, 5 files
+- Mini Project, 2 files
+- Mini-Project, 5 files
+- Question Papers, 32 files
+- Quizzes, 2 files
+- Reference Books, 5 files
+- Semester Exam, 1 file
+- Submission Report, 2 files
+- Syllabus, 2 files
+- Terna Mail - BE DLOC Elective Choice SH 2021.pdf
+
+## Subject terms
+
+analytics, big-data, big-data-analytics, big-data-analytics-techniques,
+computer-engineering, computer-science, data-mining, engineering, hadoop,
+k-means-clustering, mapreduce, stock-market-analysis, stream-processing,
+textbooks, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/

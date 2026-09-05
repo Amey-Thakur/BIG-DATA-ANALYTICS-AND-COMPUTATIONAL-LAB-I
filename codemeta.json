@@ -1,0 +1,81 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I",
+    "description": "CSDLO7032: Big Data Analytics [BDA] & CSL704: Computational Lab - I | BE Semester VII | Computer Engineering",
+    "identifier": "BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2021-07-30",
+    "dateReleased": "2022-01-19",
+    "codeRepository": "https://github.com/Amey-Thakur/BIG-DATA-ANALYTICS-AND-COMPUTATIONAL-LAB-I",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Fourth Year, Semester VII",
+    "keywords": [
+        "Analytics",
+        "Big Data",
+        "Big Data Analytics",
+        "Big Data Analytics Techniques",
+        "Computer Engineering",
+        "Computer Science",
+        "Data Mining",
+        "Engineering",
+        "Hadoop",
+        "K Means Clustering",
+        "Mapreduce",
+        "Stock Market Analysis",
+        "Stream Processing",
+        "Textbooks",
+        "University Of Mumbai",
+        "CSDLO7032",
+        "CSL704",
+        "BDA",
+        "Computational Lab - I",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "BE Semester VII",
+        "Semester VII",
+        "Assignments",
+        "Mini Project",
+        "Question Papers",
+        "Reference Books",
+        "Syllabus",
+        "CBCGS",
+        "BE Comps",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ]
+}
